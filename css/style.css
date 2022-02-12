@@ -132,6 +132,9 @@ h1{
     .wrapper{
         flex-direction: column;
     }
+    .header{
+        padding-left: 40px;
+    }
     .left{
         margin-bottom: 10px;
     }
